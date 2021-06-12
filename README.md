@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**amixubaer/amixubaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Abu Jubaer. I am from Bangladesh
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at AIUB
+- 📫 Reach me: <br>
+👉<a href="https://www.facebook.com/ami.xubaer.bd"> Facebook </a>  👉<a href="https://www.linkedin.com/in/amixubaer/"> LinkedIn </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Stats:**  
+<div align="center">
+<a href="https://github.com/amixubaer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amixubaer&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/amixubaer">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amixubaer&show_icons=true&theme=light&line_height=27" alt="Jubaer's's github stats"/>
+</a>
+
+</div>
