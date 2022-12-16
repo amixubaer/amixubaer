@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at AIUB
 - 📫 Reach me: <br>
-👉<a href="https://www.facebook.com/ami.xubaer.bd"> Facebook </a>  👉<a href="https://www.linkedin.com/in/amixubaer/"> LinkedIn </a>
+👉<a href="https://www.facebook.com/AbuJubaerOfficial"> Facebook </a>  👉<a href="https://www.linkedin.com/in/amixubaer/"> LinkedIn </a>
 
 
 **Stats:**  
