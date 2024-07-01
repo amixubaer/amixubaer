@@ -2,7 +2,7 @@
 
 ### I am Abu Jubaer. I am from Bangladesh
 
-- 🔭 I’m currently studying at AIUB
+- 🔭 I’m currently doing my Master of Information Technology in Cyber Security from Macquarie University, Sydney, NSW, Australia.
 - 📫 Reach me: <br>
 👉<a href="https://www.facebook.com/AbuJubaerOfficial"> Facebook </a>  
 
